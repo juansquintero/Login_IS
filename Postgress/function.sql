@@ -31,4 +31,4 @@ AS $BODY$
 	
 	ALTER FUNCTION usuario.f_login(text, text)
 			
-	OWNER TO postgress;
+	OWNER TO postgres;
