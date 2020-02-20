@@ -1,6 +1,6 @@
--- Table: usuario.usuario
+-- FUNCTION: usuario.f_login(text, text)
 
--- DROP TABLE usuario.usuario;
+-- DROP FUNCTION usuario.f_login(text, text);
 
 CREATE OR REPLACE FUNCTION usuario.f_login(
 	_user_name text,
